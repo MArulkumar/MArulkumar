@@ -8,8 +8,7 @@
 - 💻 Completed internships at two companies, gaining hands-on industry experience  
 - 🎓 Proud to be a first-generation graduate 😎  
 - 📫 Reach me on:  
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/
-arulkumar-m56)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/arulkumar-m56)
 ---
 
 ### 🖥 Languages I Code In  
